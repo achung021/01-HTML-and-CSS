@@ -1,0 +1,55 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300; /* if you want the light version */
+  background-color: #D9D8D7;
+  font-family: ;
+  color: ;
+  font-size: ;
+  line-height: ;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300; /* if you want the light version */
+  background-color: ;
+  font-family: ;
+  color: ;
+  font-size: ;
+  line-height: ;
+}
+
+h2 {
+  font-family: 'Varela', sans-serif;
+  font-weight: 300; /* if you want the light version */
+  background-color: ;
+  font-family: ;
+  color: ;
+  font-size: ;
+  line-height: ;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300; /* if you want the light version */
+  background-color: ;
+  font-family: ;
+  color: ;
+  font-size: ;
+  line-height: ;
+}
+
+
+#D9D8D7
+/*rgb(2, 6, 89)
+rgb(169, 171, 217)
+rgb(99, 109, 166)
+rgb(2, 24, 89)
+rgb(242, 242, 242)*/
+
